@@ -16,7 +16,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/bhikandeshmukh/RainboPhisher.git`
+* `git clone https://github.com/bhikandeshmukh/RainboPhisher.git`
 * `cd RainboPhisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -24,7 +24,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/bhikandeshmukh/RainboPhisher.git ; cd RainboPhisher ; bash setup ; bash rphisher
+apt update ; apt install git -y ; git clone https://github.com/bhikandeshmukh/RainboPhisher.git ; cd RainboPhisher ; bash setup ; bash rphisher
 ```
 <br>
 <p align="center">
