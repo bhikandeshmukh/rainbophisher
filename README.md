@@ -1,40 +1,35 @@
-<p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"> </a>
+
+# <p align="center">Rainbo Phisher
+
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
-</p>
-<p align="center">
-<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
-<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
+	<img src="res/rainbo.png" width="600px" hight="100px">
 </p>
 
-## Installation :
+<p align="center">New Tool For Phishing 
+
+###### <p align="center">*This is official repository maintained by us*
+###### <p align="center"> *[**@bhikan_deshmukh**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
+###### <p align="center"> *You can check [Instagram](https://www.instagram.com/bhikan_deshmukh)✌*
+---
+## Installation (Testet on Kali linux/Termux) :
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
-* `cd nexphisher`
+* `git clone git://github.com/bhikandeshmukh/RainboPhisher.git`
+* `cd RainboPhisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+#### > Run : `bash rphisher`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone git://github.com/bhikandeshmukh/RainboPhisher.git ; cd RainboPhisher ; bash setup ; bash rphisher
 ```
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
-<img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
+<img width="50%" src="#"/>
+<img width="46%" src="#"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
@@ -56,9 +51,19 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### > LOCALHOSTRUN (https://localhost.run)
 #### > LOCALXPOSE (https://localxpose.io/)
 
-## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+## Legal Disclaimer:
+
+Usage of BEE for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+<p align="center">
+<h4 align="center">♨️ FOLLOW ♨️<h4 align="center">
+<a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.facebook.com/thebhikandeshmukh"><img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.twitter.com/bhikan_deshmukh/"><img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rzp.io/l/mrbee"><img title="DONATE" src="https://img.shields.io/badge/DONATE-yellow?style=for-the-badge&logo=google-pay"></a>
+<a href="https://blockchain.com/btc/payment_request?address=3FH8UiVVKE5RkCaoaJ9Drr33Dg9L9FtsAq&amount=0.00008703&message=DONATE"><img title="Bitcoin" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"></a>
+</p>    
 
 
